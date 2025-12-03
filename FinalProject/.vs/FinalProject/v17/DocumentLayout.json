@@ -3,12 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FinalProjectContext_7ecf5d0c_0ae2_4064_83ae_e3b52d994729/True/SqlTable/dbo.Movie.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FinalProjectContext_7ecf5d0c_0ae2_4064_83ae_e3b52d994729/True/SqlTable/dbo.TeamMembers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|c:\\users\\mrbag\\documents\\github\\finalproject-contemporaryprogramming\\finalproject\\models\\teammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|solutionrelative:models\\teammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|c:\\users\\mrbag\\documents\\github\\finalproject-contemporaryprogramming\\finalproject\\controllers\\teammemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|solutionrelative:controllers\\teammemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|c:\\users\\mrbag\\documents\\github\\finalproject-contemporaryprogramming\\finalproject\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|solutionrelative:models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +32,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TeamMembersController.cs",
-              "DocumentMoniker": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\Controllers\\TeamMembersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TeamMembersController.cs",
-              "ToolTip": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\Controllers\\TeamMembersController.cs",
-              "RelativeToolTip": "Controllers\\TeamMembersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T17:40:42.661Z",
+              "DocumentIndex": 0,
+              "Title": "dbo.Movie [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FinalProjectContext_7ecf5d0c_0ae2_4064_83ae_e3b52d994729/True/SqlTable/dbo.Movie.sql",
+              "ToolTip": "dbo.Movie [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-03T22:01:54.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "dbo.TeamMembers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FinalProjectContext_7ecf5d0c_0ae2_4064_83ae_e3b52d994729/True/SqlTable/dbo.TeamMembers.sql",
+              "ToolTip": "dbo.TeamMembers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-03T22:01:50.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TeamMembers.cs",
               "DocumentMoniker": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\Models\\TeamMembers.cs",
               "RelativeDocumentMoniker": "Models\\TeamMembers.cs",
               "ToolTip": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\Models\\TeamMembers.cs",
               "RelativeToolTip": "Models\\TeamMembers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T18:40:39.052Z",
+              "WhenOpened": "2025-12-03T21:43:17.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "Models\\Movies.cs",
+              "ToolTip": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\Models\\Movies.cs",
+              "RelativeToolTip": "Models\\Movies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T21:36:58.744Z",
               "EditorCaption": ""
             }
           ]

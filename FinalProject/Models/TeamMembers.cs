@@ -6,7 +6,7 @@
 
         public string FullName { get; set; }
 
-        public DateTime Birthdate { get; set; }
+        public string Birthdate { get; set; }
 
         public string CollegeProgram { get; set; }
 
@@ -19,7 +19,7 @@
         public TeamMembers(
             int id,
             string fullName,
-            DateTime birthdate,
+            string birthdate,
             string collegeProgram,
             string yearInProgram,
             string email

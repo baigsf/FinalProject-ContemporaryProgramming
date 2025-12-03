@@ -6,7 +6,7 @@
 
         public string Title { get; set; }
 
-        public DateTime ReleaseDate { get; set; }
+        public string ReleaseDate { get; set; }
 
         public string Genre { get; set; }
 
@@ -19,7 +19,7 @@
         public Movies(
             int id,
             string title,
-            DateTime releaseDate,
+            string releaseDate,
             string genre,
             string rating,
             string description
