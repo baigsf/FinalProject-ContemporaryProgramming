@@ -10,7 +10,6 @@
 
         public string CollegeProgram { get; set; }
 
-        // Freshman, Sophomore, Junior, Senior, etc.
         public string YearInProgram { get; set; }
 
         public string Email { get; set; }

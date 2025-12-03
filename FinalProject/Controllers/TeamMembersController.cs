@@ -21,14 +21,12 @@ namespace FinalProject.Controllers
             _context = context;
         }
 
-        // GET: api/TeamMembers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<TeamMembers>>> GetTeamMembers()
         {
             return await _context.TeamMembers.ToListAsync();
         }
 
-        // GET: api/TeamMembers/5
         [HttpGet("{id}")]
         public async Task<ActionResult<TeamMembers>> GetTeamMembers(int id)
         {
@@ -42,8 +40,7 @@ namespace FinalProject.Controllers
             return teamMembers;
         }
 
-        // PUT: api/TeamMembers/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+   
         [HttpPut("{id}")]
         public async Task<IActionResult> PutTeamMembers(int id, TeamMembers teamMembers)
         {

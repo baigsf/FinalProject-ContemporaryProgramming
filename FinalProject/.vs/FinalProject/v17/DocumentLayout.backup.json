@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|c:\\users\\mrbag\\documents\\github\\finalproject-contemporaryprogramming\\finalproject\\migrations\\20251125174132_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|solutionrelative:migrations\\20251125174132_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|c:\\users\\mrbag\\documents\\github\\finalproject-contemporaryprogramming\\finalproject\\models\\teammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|solutionrelative:models\\teammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|c:\\users\\mrbag\\documents\\github\\finalproject-contemporaryprogramming\\finalproject\\controllers\\teammemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|solutionrelative:controllers\\teammemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|c:\\users\\mrbag\\documents\\github\\finalproject-contemporaryprogramming\\finalproject\\models\\teammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|solutionrelative:models\\teammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50299CEE-02D6-4E88-A967-BAEAF1D03D1E}|FinalProject.csproj|c:\\users\\mrbag\\documents\\github\\finalproject-contemporaryprogramming\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,24 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251125174132_firstmigration.cs",
-              "DocumentMoniker": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\Migrations\\20251125174132_firstmigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251125174132_firstmigration.cs",
-              "ToolTip": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\Migrations\\20251125174132_firstmigration.cs",
-              "RelativeToolTip": "Migrations\\20251125174132_firstmigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T17:41:32.773Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -53,27 +36,27 @@
               "RelativeDocumentMoniker": "Controllers\\TeamMembersController.cs",
               "ToolTip": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\Controllers\\TeamMembersController.cs",
               "RelativeToolTip": "Controllers\\TeamMembersController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T17:40:42.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TeamMembers.cs",
               "DocumentMoniker": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\Models\\TeamMembers.cs",
               "RelativeDocumentMoniker": "Models\\TeamMembers.cs",
               "ToolTip": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\Models\\TeamMembers.cs",
               "RelativeToolTip": "Models\\TeamMembers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T18:40:39.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mrbag\\Documents\\github\\FinalProject-ContemporaryProgramming\\FinalProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -81,8 +64,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T18:26:17.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T18:26:17.469Z"
             }
           ]
         }
