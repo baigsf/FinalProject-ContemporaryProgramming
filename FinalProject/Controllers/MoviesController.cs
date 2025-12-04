@@ -38,7 +38,6 @@ namespace FinalProject.Controllers
             return Ok(item);
         }
 
-        // POST: api/Movies
         [HttpPost]
         public async Task<ActionResult<Movies>> Post([FromBody] Movies model)
         {
@@ -47,7 +46,6 @@ namespace FinalProject.Controllers
             return CreatedAtAction(nameof(Get), new { id = model.Id }, model);
         }
 
-        // PUT: api/Movies/5
         [HttpPut("{id:int}")]
         public async Task<IActionResult> Put(int id, [FromBody] Movies model)
         {
@@ -61,7 +59,6 @@ namespace FinalProject.Controllers
             return NoContent();
         }
 
-        // DELETE: api/Movies/5
         [HttpDelete("{id:int}")]
         public async Task<IActionResult> Delete(int id)
         {

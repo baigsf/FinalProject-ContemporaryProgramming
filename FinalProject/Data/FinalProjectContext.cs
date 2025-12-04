@@ -16,5 +16,6 @@ namespace FinalProject.Data
 
         public DbSet<FinalProject.Models.TeamMembers> TeamMembers { get; set; } = default!;
         public DbSet<FinalProject.Models.Movies> Movie { get; set; } = default!;
+        public DbSet<FinalProject.Models.Books> Books { get; set; } = default!;
     }
 }
